@@ -48,4 +48,4 @@ main:
 		j 	loop1
 exit:
 	li 	$v0, 10
-	syscall
+	syscall 
